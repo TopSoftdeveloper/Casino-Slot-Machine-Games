@@ -11,8 +11,8 @@ This repository contains **advertisement materials** for multiple **RTP-manageab
 ## 🖼️ Game Previews
 
 ### Machine Slot Game 1
-![Slot Game 1](images/LatteCasino.png)
-![Slot Game 1](images/LatteCasino2.png)
+![Slot Game 1](images/LatteCasino.PNG)
+![Slot Game 1](images/LatteCasino2.PNG)
 
 ### Machine Slot Game 2
 ![Slot Game 2](images/MerkurCasino.png)
